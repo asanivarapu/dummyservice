@@ -1,0 +1,4 @@
+BLUEPRINT:
+  APPLICATION: Kong
+  OBJECT: vKong Service
+  SUB_OBJECT: vKong API Service
